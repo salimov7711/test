@@ -24,3 +24,4 @@
 // limited(4).then(console.log).catch(console.log);
 
 console.log("India".slice(0,3));
+console.log('ddd')
